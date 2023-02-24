@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "email": "mmm@gmail.com",
+      "password": "maa",
+      "id": 3,
+      "name": "Rahul",
+      "address": "Km house,Palakkkad",
+      "education": "MTEC",
+      "jobtype": "Executive manager",
+      "phonenumber": 9876543211,
+      "age": 34,
+      "department": "nursing"
+    },
+    {
+      "email": "bb@gmail.com",
+      "password": "bbb",
+      "id": 4,
+      "name": "Akshay",
+      "address": "Rk road,Palakkkad",
+      "education": "BTEC",
+      "jobtype": "Electric engineer",
+      "phonenumber": 9756431209,
+      "age": 30,
+      "department": "medical suplies"
+    },
+    {
+      "email": "arathi@gmail.com",
+      "password": "arathi",
+      "id": 5,
+      "name": "Arathi",
+      "address": "Calicut,Palakkkad",
+      "education": "Mastered",
+      "jobtype": "Web developer",
+      "phonenumber": 9345678901,
+      "age": 31,
+      "department": "pharmacy"
+    },
+    {
+      "email": "manu@gmail.com",
+      "password": "manu",
+      "id": 6,
+      "name": "Maneesh",
+      "address": "Kottayam,Palakkkad",
+      "education": "Mastered",
+      "jobtype": "Mobile developer",
+      "phonenumber": 9873123423,
+      "age": 45,
+      "department": "nursing"
+    },
+    {
+      "id": 44,
+      "name": "anil",
+      "age": 34,
+      "employeenumber": 12,
+      "department": "nurse"
+    },
+    {
+      "id": 13,
+      "name": "amal",
+      "age": 14,
+      "employeenumber": 23,
+      "department": "Nurse"
+    },
+    {
+      "email": "bbb@gmail.com",
+      "password": "bbb",
+      "id": 45
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
